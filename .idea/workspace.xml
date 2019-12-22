@@ -1,0 +1,1170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3af506a-029b-4ba3-8ead-9a0799523c33" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/jd-discount/target/" />
+    <ignored path="$PROJECT_DIR$/discoun-tcommon/target/" />
+    <ignored path="$PROJECT_DIR$/discount-commont/target/" />
+    <ignored path="$PROJECT_DIR$/common-all/target/" />
+    <ignored path="$PROJECT_DIR$/redis-all/target/" />
+    <ignored path="$PROJECT_DIR$/wechat/target/" />
+    <ignored path="$PROJECT_DIR$/wechat-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-944090760">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="README" value="1" />
+          <entry key="class" value="82" />
+          <entry key="java" value="327" />
+          <entry key="json" value="1" />
+          <entry key="png" value="3" />
+          <entry key="pom" value="2" />
+          <entry key="xml" value="71" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="82" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="327" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="74" />
+          <entry key="YAML" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="5" />
+          <entry key="dummy" value="1" />
+          <entry key="java" value="12117" />
+          <entry key="pom" value="1" />
+          <entry key="xml" value="248" />
+          <entry key="yml" value="305" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="5" />
+          <entry key="JAVA" value="12117" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="XML" value="249" />
+          <entry key="YAML" value="305" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/job/WechaRobotSendMsgJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/HqspJob.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wechat/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="62" column="64" selection-start-line="62" selection-start-column="60" selection-end-line="62" selection-end-column="64" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ttp://u.jd.com/K9WnQg</find>
+      <find>http://coupon.m.jd.com/coupons/show.action</find>
+      <find>fastj</find>
+      <find>lombok</find>
+      <find>StringUtils</find>
+      <find>接收到群</find>
+      <find>login</find>
+      <find>toUserName</find>
+      <find>Bind</find>
+      <find>52227982179</find>
+      <find>25055951175</find>
+      <find>44065557499</find>
+      <find>sendMsg</find>
+      <find>开始下载二维码</find>
+      <find>Config</find>
+      <find>LoginSession</find>
+      <find>CollectionUtils.arrayToList</find>
+      <find>cps</find>
+      <find>dateInSection</find>
+      <find>datab</find>
+      <find>mysql</find>
+      <find>assets/images/2019/12/21/8012224018792411224null</find>
+      <find>你有新的消息</find>
+      <find>weChatMessageBuilder</find>
+      <find>$PROJECT_DIR$/../picture</find>
+      <find>你在其他地方登录了 WEB 版微信，再见</find>
+      <find>redis</find>
+      <find>Users/mac/Desktop</find>
+      <find>mimeType</find>
+      <find>group</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spring/spring-framework" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/domain/JdCategoryInfo.java" />
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/domain/JxGoods.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/DiscountJob.java" />
+        <option value="$PROJECT_DIR$/redis-all/src/main/java/com/discount/api/IRedisService.java" />
+        <option value="$PROJECT_DIR$/redis-all/src/main/java/com/discount/apiImpl/RedisServiceImpl.java" />
+        <option value="$PROJECT_DIR$/redis-all/pom.xml" />
+        <option value="$PROJECT_DIR$/redis-all/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/redis-all/src/main/java/com/discount/props/RedisProps.java" />
+        <option value="$PROJECT_DIR$/redis-all/src/main/java/com/discount/config/RedisConfigurtion.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/config/RedisConfigurtion.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/runner/WechatRunner.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/config/RedisConfigurtion.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/domain/HelloBot.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/utils/QRCodeUtils.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/WeChatBot.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/exception/BizException.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/JXGoodsQueryUtil.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/WechatRobotSendMsgJob.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/Utils.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/service/serviceIm/JxGoodsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/JDDiscountApplication.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/WechatApplication.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/JDUtil.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/jd-discount/pom.xml" />
+        <option value="$PROJECT_DIR$/wechat/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/job/SendMsgJob.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/DownLoad.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/Dto/RequestDto.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/controller/JdController.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/service/JdService.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/service/serviceIm/JdServiceim.java" />
+        <option value="$PROJECT_DIR$/common-all/pom.xml" />
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/util/Utils.java" />
+        <option value="$PROJECT_DIR$/jd-discount/src/test/java/com/jd/discount/JDTest.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/ChatLoop.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/job/WechatMsgJob.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/constant/Config.java" />
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/robot/HelloBot.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApi.java" />
+        <option value="$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApiImpl.java" />
+        <option value="$PROJECT_DIR$/common-all/src/main/java/com/disount/common/constant/AllEnums.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/api/WechatRobotSendMsgApi.java" />
+        <option value="$PROJECT_DIR$/wechat-api/pom.xml" />
+        <option value="$PROJECT_DIR$/wechat/pom.xml" />
+        <option value="$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/HqspJob.java" />
+        <option value="$PROJECT_DIR$/wechat/src/main/java/com/discount/job/WechaRobotSendMsgJob.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.2/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="discount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="jd-discount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="jd" type="462c0819:PsiDirectoryNode" />
+              <item name="discount" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="discount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="alldiscount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alldiscount" type="462c0819:PsiDirectoryNode" />
+              <item name="wechat" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="discount" type="462c0819:PsiDirectoryNode" />
+              <item name="job" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577016443901" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jd.discount.util" />
+      <recent name="com.disount.common.exception" />
+      <recent name="com.discount.config" />
+      <recent name="com.discount.props" />
+      <recent name="com.discount.apiImpl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wechat/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/wechat-api" />
+      <recent name="$PROJECT_DIR$/wechat/src/main/java/com/discount" />
+      <recent name="$PROJECT_DIR$/redis-all/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.1545946" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.WechatApplication">
+    <configuration name="JDTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jd-discount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.discount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd.discount" />
+      <option name="MAIN_CLASS_NAME" value="com.jd.discount.JDTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDTest.getSmsStr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jd-discount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jd.discount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jd.discount" />
+      <option name="MAIN_CLASS_NAME" value="com.jd.discount.JDTest" />
+      <option name="METHOD_NAME" value="getSmsStr" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDDiscountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="jd-discount" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jd.discount.JDDiscountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WechatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="wechat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.discount.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.discount.WechatApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.JDDiscountApplication" />
+      <item itemvalue="JUnit.JDTest" />
+      <item itemvalue="JUnit.JDTest.getSmsStr" />
+      <item itemvalue="Spring Boot.WechatApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.WechatApplication" />
+        <item itemvalue="JUnit.JDTest" />
+        <item itemvalue="JUnit.JDTest.getSmsStr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3af506a-029b-4ba3-8ead-9a0799523c33" name="Default Changelist" comment="" />
+      <created>1576459454385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576459454385</updated>
+      <workItem from="1576459462097" duration="23593000" />
+      <workItem from="1576544479817" duration="5858000" />
+      <workItem from="1576570676342" duration="4773000" />
+      <workItem from="1576576260199" duration="4403000" />
+      <workItem from="1576637736944" duration="14409000" />
+      <workItem from="1576658407326" duration="21565000" />
+      <workItem from="1576803525100" duration="27637000" />
+      <workItem from="1576861381174" duration="18503000" />
+      <workItem from="1576910889198" duration="19963000" />
+      <workItem from="1577010373678" duration="845000" />
+      <workItem from="1577011353386" duration="2082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JDTest - 2019.12.21 at 10h 29m 01s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest - 2019.12.21 at 10h 29m 38s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest_hqspJobtest - 2019.12.21 at 11h 02m 47s.xml">
+      <configuration name="JDTest.hqspJobtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest_hqspJobtest - 2019.12.21 at 13h 09m 01s.xml">
+      <configuration name="JDTest.hqspJobtest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest - 2019.12.21 at 13h 09m 56s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest_getSmsStr - 2019.12.21 at 14h 41m 55s.xml">
+      <configuration name="JDTest.getSmsStr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest_getSmsStr - 2019.12.21 at 17h 49m 43s.xml">
+      <configuration name="JDTest.getSmsStr" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest - 2019.12.21 at 17h 51m 14s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest - 2019.12.21 at 17h 52m 03s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JDTest - 2019.12.21 at 17h 52m 49s.xml">
+      <configuration name="JDTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="143631000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32331902" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43253013" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.67951804" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.29036143" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32970297" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.53614455" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.15282215" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" weight="0.32904148" />
+      <window_info anchor="right" id="Maven Projects" order="6" weight="0.32904148" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/Invoke.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApiImpl.java</url>
+          <line>339</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApiImpl.java</url>
+          <line>1040</line>
+          <properties />
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApiImpl.java</url>
+          <line>974</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>this.sendMsg(message.getFromUserName(), &quot;11111&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getString(&quot;result&quot;)).toJSONString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.toJSONString(JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getString(&quot;result&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getString(&quot;result&quot;)).get(&quot;data&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getString(&quot;result&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getString(&quot;result&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getJSONArray(&quot;result&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>JSONObject.parseObject(response.getSysOriginalMsg()).getJSONObject(&quot;jd_union_open_goods_jingfen_query_response&quot;).getJSONObject(&quot;result&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it.getCouponInfo().getCouponList()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/WechatApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/qrcode.png" />
+    <entry file="file://$PROJECT_DIR$/assets/login.json" />
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/job/SendMsgJob.java" />
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/runner/WechatRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/response/WebSyncResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/SyncCheckRet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/constant/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="105" selection-start-line="105" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/enums/ApiURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/DownLoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="31" lean-forward="true" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding>
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/LoginSession.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/Dto/RequestDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-all/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/test/java/com/jd/discount/JDTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="38" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/controller/JdController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/service/JdService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/enums/RetCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/service/serviceIm/JdServiceim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.0.10.RELEASE/spring-context-5.0.10.RELEASE.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/ChatLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/client/BotClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="84" column="59" selection-start-line="84" selection-start-column="59" selection-end-line="84" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/job/WechatMsgJob.java" />
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/SendMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/model/WeChatMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/constant/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="21" column="93" selection-start-line="21" selection-start-column="93" selection-end-line="21" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-all/src/main/java/com/disount/common/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="39" column="90" selection-start-line="39" selection-start-column="90" selection-end-line="39" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/utils/WeChatUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="71" column="25" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/robot/HelloBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/config/RedisConfigurtion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/api/WechatRobotSendMsgApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="44" column="3" selection-start-line="44" selection-start-column="3" selection-end-line="44" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/WeChatBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="105" column="21" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="21" />
+          <folding>
+            <element signature="e#1972#1973#0" expanded="true" />
+            <element signature="e#2022#2023#0" expanded="true" />
+            <element signature="e#2123#2124#0" expanded="true" />
+            <element signature="e#2153#2154#0" expanded="true" />
+            <element signature="e#2186#2187#0" expanded="true" />
+            <element signature="e#2218#2219#0" expanded="true" />
+            <element signature="e#2248#2249#0" expanded="true" />
+            <element signature="e#2279#2280#0" expanded="true" />
+            <element signature="e#2703#2704#0" expanded="true" />
+            <element signature="e#2750#2751#0" expanded="true" />
+            <element signature="e#4453#4454#0" expanded="true" />
+            <element signature="e#4504#4505#0" expanded="true" />
+            <element signature="e#5093#5094#0" expanded="true" />
+            <element signature="e#5147#5148#0" expanded="true" />
+            <element signature="e#8534#8535#0" expanded="true" />
+            <element signature="e#8597#8598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-all/src/main/java/com/disount/common/constant/AllEnums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="159" column="12" selection-start-line="159" selection-start-column="4" selection-end-line="159" selection-end-column="12" />
+          <folding>
+            <element signature="e#2548#2549#0" expanded="true" />
+            <element signature="e#2573#2574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/DelegatingMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/src/main/java/io/github/biezhi/wechat/api/WeChatApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8823">
+          <caret line="554" column="23" selection-start-line="554" selection-start-column="23" selection-end-line="554" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34782">
+          <caret line="2119" column="19" selection-start-line="2119" selection-start-column="19" selection-end-line="2119" selection-end-column="19" />
+          <folding>
+            <element signature="e#82616#82617#0" expanded="true" />
+            <element signature="e#82667#82668#0" expanded="true" />
+            <element signature="e#82971#82972#0" expanded="true" />
+            <element signature="e#83020#83021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/WechatRobotSendMsgJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/JDUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="92" column="22" selection-start-line="92" selection-start-column="22" selection-end-line="92" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-all/src/main/java/com/disount/common/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="41" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/HttpUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/util/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="118" column="18" lean-forward="true" selection-start-line="118" selection-start-column="18" selection-end-line="118" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="35" selection-start-line="6" selection-start-column="4" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="62" column="64" selection-start-line="62" selection-start-column="60" selection-end-line="62" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jd-discount/src/main/java/com/jd/discount/job/HqspJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wechat/src/main/java/com/discount/job/WechaRobotSendMsgJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="36" selection-start-line="36" selection-start-column="2" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jd-discount</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

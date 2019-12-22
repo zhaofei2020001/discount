@@ -1,0 +1,12 @@
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/job/WechatRobotSendMsgJob.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/service/serviceIm/JdServiceim.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/config/RedisConfigurtion.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/service/JdService.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/Dto/RequestDto.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/JDDiscountApplication.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/controller/JdController.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/util/JXGoodsQueryUtil.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/util/HttpUtils.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/util/JDUtil.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/util/Utils.java
+/Users/mac/Desktop/alldiscount/jd-discount/src/main/java/com/jd/discount/job/HqspJob.java

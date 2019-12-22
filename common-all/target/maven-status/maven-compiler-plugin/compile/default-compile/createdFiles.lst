@@ -1,0 +1,10 @@
+com/disount/common/util/Utils.class
+com/disount/common/constant/AllEnums$ownerEnum.class
+com/disount/common/constant/AllEnums$eliteEnum.class
+com/disount/common/constant/AllEnums$wechatGroupEnum.class
+com/disount/common/constant/AllEnums$isBestCouponEnum.class
+com/disount/common/constant/AllEnums$couponTypeEnum.class
+com/disount/common/constant/Constants.class
+com/disount/common/constant/AllEnums$isHotEnum.class
+com/disount/common/domain/JxGoods.class
+com/disount/common/constant/AllEnums.class
